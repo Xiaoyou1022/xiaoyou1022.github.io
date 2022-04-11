@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td>Not my sister</td>
-      <td><audio controls><source src="Not My Sister.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/Not My Sister.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
       <td>他們說我是沒有用的年輕人</td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>左右違法</td>
-      <td><audio controls><source src="Dilemma.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/Dilemma.wav" type="audio/wav"></audio></td>
     </tr>
   </table>
 </body>
