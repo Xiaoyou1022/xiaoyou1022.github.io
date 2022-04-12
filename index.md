@@ -10,7 +10,6 @@
   <tr>
     <td>我愛你，卻不能拯救你</td>
     <td><iframe width="256" height="144" src="https://www.youtube.com/embed/Lq3UlckzpmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td></td>
     <td>
 <pre>你對著人群大喊 在天橋的中心
 在遠處面對你 我只想要你獲得平靜
