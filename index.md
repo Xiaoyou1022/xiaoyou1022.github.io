@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>我愛你，卻不能拯救你</td>
-    <td><iframe width="320" height="240" src="https://www.youtube.com/embed/Lq3UlckzpmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="640" height="360" src="https://www.youtube.com/embed/Lq3UlckzpmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
     <td></td>
     <td>
 <pre>你對著人群大喊 在天橋的中心
@@ -123,8 +123,8 @@ You are my sister by heart
   </tr>
   <tr>
     <td>他們說我是沒有用的年輕人</td>
-    <td><iframe width="1280" height="720" src="https://www.youtube.com/embed/DqwF2AFfBEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td><iframe width="1280" height="720" src="https://www.youtube.com/embed/FNJG6MsKO0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="640" height="360" src="https://www.youtube.com/embed/DqwF2AFfBEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="640" height="360" src="https://www.youtube.com/embed/FNJG6MsKO0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
     <td><pre>你會不會和我一樣
 覺得自己最多就是這樣
 你會不會和我一樣
@@ -188,8 +188,8 @@ You are my sister by heart
   </tr>
   <tr>
     <td>夜空中最亮的星</td>
-    <td><iframe width="1280" height="720" src="https://www.youtube.com/embed/FUorCLHAi5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td><iframe width="1280" height="720" src="https://www.youtube.com/embed/GPnymcrXgX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="640" height="360" src="https://www.youtube.com/embed/FUorCLHAi5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="640" height="360" src="https://www.youtube.com/embed/GPnymcrXgX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
     <td><pre>夜空中最亮的星,能否聽清
 那仰望的人,心底的孤獨和嘆息
 oh夜空中最亮的星,能否記起
