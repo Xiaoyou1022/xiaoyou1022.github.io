@@ -44,7 +44,82 @@
     <td>Not my sister</td>
     <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/Not My Sister.wav" type="audio/wav"></audio></td>
     <td></td>
-    <td></td>
+    <td><pre>沒聊太多
+默契太濃
+사랑해요
+Oh只對你說
+
+我分享我所有
+你不用再去猜
+欠下感情債
+沒差反正就當我活該
+
+Babe 我什麼都沒說
+在你面前全都透露
+我們的未來別劇透
+像在拍怪奇下一季on show
+
+Babe 我什麼都沒說
+在你面前毫無保留
+Oh we are just fine 不用另一半
+In my life 有你在
+We never ever lie
+
+You are my sister by heart
+
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+
+Oh 限時動態 標記起來 tag her
+Oh 再來一篇 心照不宣
+想跟你盪鞦韆
+這一切讓我流連
+Like 八卦 穿搭 染髮 make up
+隨時隨地我等你 call on
+
+Babe 我什麼都沒說
+在你面前全都透露
+我們的未來別劇透
+像在拍怪奇下一季on show
+
+Babe 我什麼都沒說
+在你面前毫無保留
+Oh we are just fine 不用另一半
+In my life 有你在
+We never ever lie
+
+You are my sister by heart
+
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+
+Oh 你說你心情最近
+什麼目標幫你狙擊
+晴天娃娃 看清了吧 別再想他
+
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+Not My Sister
+(I’m your Nasi)
+You Are Not My Sister
+(by blood by blood)
+
+You are my sister by heart
+    </pre></td>
   </tr>
   <tr>
     <td>他們說我是沒有用的年輕人</td>
