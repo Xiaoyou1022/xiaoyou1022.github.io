@@ -6,7 +6,7 @@
   </ul>
 </nav>
 
-<div id="#links">
+<div id="links">
   <h2>連結</h2>
   <ul>
     <li><a href="https://xiaoyou1022.github.io">GitHub Page</a></li>
