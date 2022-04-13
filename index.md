@@ -1,8 +1,9 @@
-<nav>
-   <tr>
-    <td>連結</td>
-    <td>音樂劇</td>
-  </tr>
+<nav class="menu">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
 </nav>
 <!-- 256×144 -->
 <table>
