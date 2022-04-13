@@ -2,7 +2,7 @@
   <h2>Menu</h2>
   <ul>
     <li><a href="#links">連結</a></li>
-    <li><a href="#school"></a>音樂劇</li>
+    <li><a href="#school">音樂劇</a></li>
   </ul>
 </nav>
 
