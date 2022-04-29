@@ -334,37 +334,37 @@
 
 
 1. 教室.mp3
-<audio src="1. 教室.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/1. 教室.mp3" controls></audio>
 <hr>
 2. 放學路上.mp3
-<audio src="2. 放學路上.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/2. 放學路上.mp3" controls></audio>
 <hr>
 2. 放學路上2.mp3
-<audio src="2. 放學路上2.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/2. 放學路上2.mp3" controls></audio>
 <hr>
 3. 教室.mp3
-<audio src="3. 教室.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/3. 教室.mp3" controls></audio>
 <hr>
 3. 教室2.mp3
-<audio src="3. 教室2.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/3. 教室2.mp3" controls></audio>
 <hr>
 6. 幻境.mp3
-<audio src="6. 幻境.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/6. 幻境.mp3" controls></audio>
 <hr>
 6. 幻境2.mp3
-<audio src="6. 幻境2.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/6. 幻境2.mp3" controls></audio>
 <hr>
 7. 教室.mp3
-<audio src="7. 教室.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/7. 教室.mp3" controls></audio>
 <hr>
 7. 教室2.mp3
-<audio src="7. 教室2.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/7. 教室2.mp3" controls></audio>
 <hr>
 8. 第四次模擬考成績.mp3
-<audio src="8. 第四次模擬考成績.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/8. 第四次模擬考成績.mp3" controls></audio>
 <hr>
 9. 地下室(開場).mp3
-<audio src="9. 地下室(開場).mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/9. 地下室(開場).mp3" controls></audio>
 <hr>
 9. 地下室2.mp3
-<audio src="9. 地下室2.mp3" controls></audio>
+<audio src="https://yin-le-ju.xiaoyou2017.repl.co/%E9%85%8D%E6%A8%82/9. 地下室2.mp3" controls></audio>
