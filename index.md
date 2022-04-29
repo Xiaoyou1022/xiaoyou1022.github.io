@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td>Not my sister</td>
-      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/Not My Sister.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/歌唱/Not My Sister.wav" type="audio/wav"></audio></td>
       <td></td>
       <td><pre>沒聊太多
   默契太濃
@@ -245,7 +245,7 @@
     </tr>
     <tr>
       <td>左右違法</td>
-      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/Dilemma.wav" type="audio/wav"></audio></td>
+      <td><audio controls><source src="https://yin-le-ju.xiaoyou2017.repl.co/歌唱/Dilemma.wav" type="audio/wav"></audio></td>
       <td></td>
       <td><pre>熱門的話題從來沒了解過
   吵了半天最後沒有個結果
